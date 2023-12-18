@@ -32,3 +32,15 @@
 | R + Z | Rotation autour de l'axe Z |
 | R + Y | Rotation autour de l'axe Y |
 | R + X | Rotation autour de l'axe X |
+
+## Modification de l'objet
+
+| Racourcie Clavier | Fonction |
+|:-------------------:|:-----------------------------------:|
+| S | Augmente la taille de l'objet |
+| S + Z | Augmente la taille de l'objet sur l'axe Z |
+| S + Y | Augmente la taille de l'objet sur l'axe Y |
+| S + X | Augmente la taille de l'objet sur l'axe X |
+| S -> Ctrl + Z | Augmente la taille de l'objet sur tous les axes sauf l'axe Z |
+| S -> Ctrl + Y | Augmente la taille de l'objet sur tous les axes sauf l'axe Y |
+| S -> Ctrl + X | Augmente la taille de l'objet sur tous les axes sauf l'axe X |
