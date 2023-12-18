@@ -28,3 +28,7 @@
 | G -> Ctrl + Z | Mouvement impossible sur l'axe Z |
 | G -> Ctrl + Y | Mouvement impossible sur l'axe Y |
 | G -> Ctrl + X | Mouvement impossible sur l'axe X |
+| R | Rotation de l'objet |
+| R + Z | Rotation autour de l'axe Z |
+| R + Y | Rotation autour de l'axe Y |
+| R + X | Rotation autour de l'axe X |
