@@ -44,3 +44,7 @@
 | S -> Ctrl + Z | Augmente la taille de l'objet sur tous les axes sauf l'axe Z |
 | S -> Ctrl + Y | Augmente la taille de l'objet sur tous les axes sauf l'axe Y |
 | S -> Ctrl + X | Augmente la taille de l'objet sur tous les axes sauf l'axe X |
+| R | Rotation de l'objet |
+| R + Z | Rotation de l'objet autour de l'axe Z |
+| R + Y | Rotation de l'objet autour de l'axe Y |
+| R + X | Rotation de l'objet autour de l'axe X |
